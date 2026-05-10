@@ -41,9 +41,8 @@
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.59.2"
   },
-  "overrides": {
-    "osmtogeojson": {
-      "@xmldom/xmldom": "^0.8.13"
-    }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robert-hanuschke/geojson-getter.git"
   }
 }
