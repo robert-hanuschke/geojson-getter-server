@@ -1,6 +1,6 @@
 {
   "name": "geojson-getter-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTTP server exposing OSM relation GeoJSON resolution via OSM ID or Wikidata ID",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,8 @@
   "license": "MIT",
   "dependencies": {
     "@hono/node-server": "^2.0.2",
-    "geojson-getter": "^1.0.0",
-    "hono": "^4.12.19",
+    "geojson-getter": "^1.0.1",
+    "hono": "^4.12.18",
     "hono-pino": "^0.10.3",
     "pino": "^10.3.1",
     "zod": "^4.4.3"
